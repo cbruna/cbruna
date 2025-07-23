@@ -1,6 +1,4 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on navigation & control 
+## Hi there 👋 I'm Cristian, from Buenos Aires, Argentina.
 
 <!--
 **cbruna/cbruna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
